@@ -3,11 +3,11 @@
 A gesture control robotic vehicle based on the Esp8266 NodeMCU and Arduino.
 Through gestures with the glove the user can move the robot forward, back and side, without clicking any button!
 
-All the components and build instructions are described in [this paper](https://github.com/RobertoDebarba/renal-scintigraphy-image-segmentation/blob/master/docs/paper.pdf).
+All the components and build instructions are described in [this paper](https://github.com/RobertoDebarba/gesture-control-robot/blob/master/docs/paper.pdf).
 
-<img src="https://github.com/RobertoDebarba/renal-scintigraphy-image-segmentation/blob/master/docs/presentation.gif">
-<img src="https://github.com/RobertoDebarba/renal-scintigraphy-image-segmentation/blob/master/docs/glove.jpg">
-<img src="https://github.com/RobertoDebarba/renal-scintigraphy-image-segmentation/blob/master/docs/vehicle.jpg">
+<img src="https://github.com/RobertoDebarba/gesture-control-robot/blob/master/docs/presentation.gif">
+<img src="https://github.com/RobertoDebarba/gesture-control-robot/blob/master/docs/glove.jpg">
+<img src="https://github.com/RobertoDebarba/gesture-control-robot/blob/master/docs/vehicle.jpg">
 
 ## How to run
 

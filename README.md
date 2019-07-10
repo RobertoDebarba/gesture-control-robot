@@ -6,8 +6,8 @@ Through gestures with the glove the user can move the robot forward, back and si
 All the components and build instructions are described in [this paper](https://github.com/RobertoDebarba/gesture-control-robot/blob/master/docs/paper.pdf).
 
 <img src="https://github.com/RobertoDebarba/gesture-control-robot/blob/master/docs/presentation.gif">
-<img src="https://github.com/RobertoDebarba/gesture-control-robot/blob/master/docs/glove.jpg">
-<img src="https://github.com/RobertoDebarba/gesture-control-robot/blob/master/docs/vehicle.jpg">
+<img src="https://github.com/RobertoDebarba/gesture-control-robot/blob/master/docs/glove.jpg" width="600" height="auto">
+<img src="https://github.com/RobertoDebarba/gesture-control-robot/blob/master/docs/vehicle.jpg" width="600" height="auto">
 
 ## How to run
 

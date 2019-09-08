@@ -225,13 +225,13 @@ void getDirection()
   }
   if (AcY > 8000)
   {
-    Serial.println("front");
-    url = "/front";
+    Serial.println("back");
+    url = "/back";
   }
   if (AcY < -8000)
   {
-    Serial.println("back");
-    url = "/back";
+    Serial.println("front");
+    url = "/front";
   }
 
   if (url != "")
